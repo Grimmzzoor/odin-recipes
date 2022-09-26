@@ -1,0 +1,25 @@
+body,p {font-family: 'Courier New', Courier, monospace;}
+
+h1,h3 {text-align: center;
+       font-weight: bold;}
+
+h1 {background-color: rgba(87, 49, 224, 0.781);}
+
+h3 {background-color: rgba(14, 88, 12, 0.534);}
+
+.lasagna {width: auto;
+          height: 170px;
+          margin-left: auto;
+          margin-right: auto;
+          display: block;}
+
+p {background-color: rgba(79, 150, 91, 0.412);}
+
+ul,ol {font-style: italic;
+    background-color: rgba(44, 42, 42, 0.747);
+    color: white;}
+
+.back {text-align: center;
+       background-color: black;
+       color: white;
+       display: block;}
